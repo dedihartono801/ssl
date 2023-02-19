@@ -1,0 +1,6 @@
+auth-svc/ca.*
+auth-svc/server.*
+order-svc/ca.*
+order-svc/server.*
+product-svc/ca.*
+product-svc/server.*
